@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565065912572",
+    "project_id": "traing-9d9d9",
+    "storage_bucket": "traing-9d9d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565065912572:android:d629d6307b4bf73f360779",
+        "android_client_info": {
+          "package_name": "com.nishan.train.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565065912572-kg2cr1hu76q7i0r9925eevpska0c126b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsulTCmT7Bl_fjVHysrk7uKSxHP_1AO5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565065912572-kg2cr1hu76q7i0r9925eevpska0c126b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
