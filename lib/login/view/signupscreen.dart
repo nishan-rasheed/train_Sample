@@ -43,7 +43,7 @@ class SignupScreen extends StatelessWidget {
                       child: TextField(
                         controller: _userController,
                         decoration: InputDecoration(
-                          hintText: 'username',
+                          hintText: 'username....',
                           border: OutlineInputBorder(
                             borderRadius: BorderRadius.circular(25),
                           ),
